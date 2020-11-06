@@ -2,3 +2,4 @@ README criado para testar e aprender sobre a utilização correta dos repositór
 
     Alteração no README para descrever melhor o sistema.
     Nova linha adicionado rapeize
+    só o básico
